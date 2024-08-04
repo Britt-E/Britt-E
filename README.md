@@ -3,7 +3,7 @@
 * 🌏  I'm based in Brisbane, QLD
 * 💜  I'm part of the She Codes Plus Cohort 2024/25
 * 🐍  I’m currently learning all things Python
-* 🖥️  See my first portfolio at https://britt-e.github.io/
+<!--* 🖥️  See my first portfolio at https://britt-e.github.io/-->
 
 
 # 💻 Tech Stack
