@@ -1,8 +1,9 @@
 # 👋 Hi, I'm Brittany!
 
-* 🌏  I'm based in Brisbane, QLD
+* 🌏  I'm based in Brisbane, QLD
 * 💜  I'm part of the She Codes Plus Cohort 2024/25
-
+* 🖥️  Explore [My Portfolio](https://britt-e.github.io/)
+* 📚  Driven by curiosity, I thrive on learning and growth, embracing every challenge as an opportunity to excel.
 
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
