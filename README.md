@@ -3,6 +3,7 @@
 * 🌏  I'm based in Brisbane, QLD
 * 💜  I'm part of the She Codes Plus Cohort 2024/25
 * 🖥️  Explore [My Portfolio](https://britt-e.github.io/)
+* 🏍 I'm learning to ride a motorbike
 * 📚  Driven by curiosity, I thrive on learning and growth, embracing every challenge as an opportunity to excel.
 
 # 💻 Tech Stack
