@@ -1,10 +1,9 @@
 # 👋 Hi, I'm Brittany!
 
 * 🌏  I'm based in Brisbane, QLD
-* 💜  I'm part of the She Codes Plus Cohort 2024/25
-* 🖥️  Explore [My Portfolio](https://britt-e.github.io/)
-* 🏍 I'm learning to ride a motorbike
-* 📚  Driven by curiosity, I thrive on learning and growth, embracing every challenge as an opportunity to excel.
+* 💜  She Codes Plus Graduate 2024/25
+* 👩‍🎓  Software Engineer actively seeking roles to build impactful solutions
+* 📚  Passionate about continuous learning and tackling complex technical challenges
 
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
@@ -19,8 +18,10 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-<!--
 # 💬 Socials
 <p align="left"> <a href="https://github.com/Britt-E" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/brittevans/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
+<!--
+under construction
+* 🖥️  Explore [My Portfolio](https://britt-e.github.io/)
 -->
