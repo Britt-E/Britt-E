@@ -2,7 +2,6 @@
 
 * 🌏  I'm based in Brisbane, QLD
 * 💜  She Codes Plus Graduate 2024/25
-* 👩‍🎓  Software Engineer actively seeking roles to build impactful solutions
 * 📚  Passionate about continuous learning and tackling complex technical challenges
 
 # 💻 Tech Stack
