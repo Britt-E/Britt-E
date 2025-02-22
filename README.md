@@ -3,6 +3,7 @@
 * 🌏  I'm based in Brisbane, QLD
 * 💜  She Codes Plus Graduate 2024/25
 * 📚  Passionate about continuous learning and tackling complex technical challenges
+* 🏍  When I'm not coding, you'll find me at the gym, riding my motorbike, or playing video games
 
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
